@@ -70,6 +70,7 @@ describe('slug', () => {
         'z',
         'az',
         'abc129',
+        'foo135bar',
         'collection',
       ]);
     });
